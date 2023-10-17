@@ -1,7 +1,7 @@
 # Youtube-anti-ad-blocker-agnostic
 
 
-<h2>Whats this?</h2>
+<h2>What's this?</h2>
 <body>Use whatever adblocker you want! This blocks the new anti-ad block measures put in place by Youtube. 
   
 ![hhhjculcnfub1](https://github.com/alextfife/Youtube-anti-ad-macOS-safari/assets/26822309/02a275b3-ef03-4b30-9b7b-b66fd9028703)
