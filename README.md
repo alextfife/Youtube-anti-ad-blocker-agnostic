@@ -13,6 +13,7 @@
 <ul>
   <li>ad blocker installed and enabled**</li>
   <li>Copy and Paste blocklist.txt into your user/custom filters.</li>
+  <li>If you have persistent issues, make sure to clear all your google/youtube related cookies and restart your browser.</li>
 </ul>
 
 macOS Safari- Blocking YouTube horrible Anti-ad popup and related issues with Adguard (via App Store)
